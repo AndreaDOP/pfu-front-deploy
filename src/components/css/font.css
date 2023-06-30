@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&display=swap');
+
+@font-face {
+  font-family: 'DynaPuff';
+  src: url('./font.css') format('woff2');
+  /* Otras propiedades y formatos de fuente si es necesario */
+}

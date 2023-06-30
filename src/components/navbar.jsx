@@ -2,7 +2,7 @@ import carri from './img/carri.svg';
 import { NavLink } from 'react-router-dom';
 
 const NavBar = () => {
-    const btnLink = 'inline-block py-1 text-white text-lg font-bold hover:text-green-300 cursor-pointer mr-4'
+    const btnLink = 'inline-block py-1 font-dyna text-white text-lg font-bold hover:text-green-300 cursor-pointer mr-4'
     const activeLink = 'block inline-block py-1 text-white mr-4'
   return (
 <header className="text-gray-600 body-font">
